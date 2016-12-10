@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Paper Now
 
 Create, edit and (optionally) display a journal article, entirely in GitHub.
@@ -32,3 +33,7 @@ In contrast to the more traditional process of `submit > peer review > publish` 
 
 * Does this article structure make sense? Would it be better all in one file? [Create an issue](https://github.com/peerj/paper-now/issues) to discuss it.
 * Made changes to the layout templates or some other part of the code? [Fork this repository](https://github.com/peerj/paper-now/fork), make your changes, and [send a pull request](https://github.com/peerj/paper-now/pulls).
+=======
+# Generalized-Linear-Models-Final
+Final project for the Generalized Linear Regression Models taught by Jeff Goldsmith in the Spring semester 2015 at Columbia University.
+>>>>>>> 093f7a65a7e96298d9b49d8f5af2f4da349af677
